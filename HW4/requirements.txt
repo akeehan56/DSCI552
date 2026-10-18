@@ -1,4 +1,7 @@
-pathlib
-re
 numpy
 pandas
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+scipy
